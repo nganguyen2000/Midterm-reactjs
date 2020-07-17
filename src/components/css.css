@@ -1,0 +1,38 @@
+img{
+    width: 270px;
+    height: 300px;
+}
+.flex{
+    display: flex;
+    margin: auto;
+}
+.price{
+    margin-right: 50px;
+    margin-left: 30px;
+    color: red;
+}
+.nameproduct{
+    margin-left: 50px;
+}
+.oldprice{
+    color: gray;
+    text-decoration: line-through;
+}
+.btn {
+    margin-left: 83px;
+    margin-bottom: 10px;
+}
+.container{
+    display: grid;
+    grid-template-columns:300px 300px 300px;
+}
+.khungsp{
+    background-color: lightgray;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.title{
+    color: black;
+    margin-top: 100px;
+
+}
